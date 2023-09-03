@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/vscodeCode/workmanager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\work.dir\\main.cpp.obj -c D:\\vscodeCode\\workmanager\\main.cpp",
+  "file": "D:/vscodeCode/workmanager/main.cpp",
+  "output": "CMakeFiles/work.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/workmanager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\work.dir\\work_manager.cpp.obj -c D:\\vscodeCode\\workmanager\\work_manager.cpp",
+  "file": "D:/vscodeCode/workmanager/work_manager.cpp",
+  "output": "CMakeFiles/work.dir/work_manager.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/workmanager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\work.dir\\employee.cpp.obj -c D:\\vscodeCode\\workmanager\\employee.cpp",
+  "file": "D:/vscodeCode/workmanager/employee.cpp",
+  "output": "CMakeFiles/work.dir/employee.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/workmanager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\work.dir\\manager.cpp.obj -c D:\\vscodeCode\\workmanager\\manager.cpp",
+  "file": "D:/vscodeCode/workmanager/manager.cpp",
+  "output": "CMakeFiles/work.dir/manager.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/workmanager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\work.dir\\boss.cpp.obj -c D:\\vscodeCode\\workmanager\\boss.cpp",
+  "file": "D:/vscodeCode/workmanager/boss.cpp",
+  "output": "CMakeFiles/work.dir/boss.cpp.obj"
+}
+]

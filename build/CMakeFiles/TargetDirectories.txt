@@ -1,0 +1,3 @@
+D:/vscodeCode/workmanager/build/CMakeFiles/work.dir
+D:/vscodeCode/workmanager/build/CMakeFiles/edit_cache.dir
+D:/vscodeCode/workmanager/build/CMakeFiles/rebuild_cache.dir
